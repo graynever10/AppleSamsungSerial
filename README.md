@@ -1,20 +1,6 @@
 # AppleSamsungSerial
 
 
----------- Forwarded message ----------
-From: Jamie Gray <graynever10@gmail.com>
-Date: Wednesday, September 14, 2016
-Subject: 
-To: Product-security@apple.com, Eric Redlinger <eric@10base-t.com>, emr-isac <emr-isac@service.govdelivery.com>, ICS-CERT <ics-cert@ncas.us-cert.gov>, NIST Computer Security Division <csrc.nist@service.govdelivery.com>, Cyberciti Webmaster <webmaster@cyberciti.biz>
-
-
-
-
----------- Forwarded message ----------
-From: Layla louise Spencer <laylalspencer@icloud.com>
-Date: Wednesday, September 14, 2016
-Subject: 
-To: graynever10@gmail.com
 
 
 {"bug_type":"288","timestamp":"2016-09-14 09:50:30.68 +0100","os_version":"iPhone OS 10.0.1 (14A403)","incident_id":"37E75675-4216-4ED3-9364-3970DAFCB51A"}
@@ -44,4 +30,3 @@ To: graynever10@gmail.com
 
 
 -- 
-Sent from Gmail Mobile
