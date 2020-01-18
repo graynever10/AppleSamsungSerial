@@ -1,5 +1,4 @@
 # AppleSamsungSerial
-10.0.1 update and yet it seems I am becoming more in danger
 
 
 ---------- Forwarded message ----------
